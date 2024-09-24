@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/aso0829/Pipelines/_apis/build/status%2Fasodataone.java?branchName=main)](https://dev.azure.com/aso0829/Pipelines/_build/latest?definitionId=7&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
